@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Block-Diagram.SchDoc
+Record=SheetSymbol|SourceDocument=Block-Diagram.SchDoc|Designator=Microcontroller|SchDesignator=Microcontroller|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block-Diagram.SchDoc|Designator=RTD-SPI|SchDesignator=RTD-SPI|FileName=MAX31865-RTD-SPI.SchDoc|SymbolType=Normal|RawFileName=MAX31865-RTD-SPI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
